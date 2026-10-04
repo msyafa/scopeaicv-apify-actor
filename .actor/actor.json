@@ -8,6 +8,6 @@
   "input": "./input_schema.json",
   "dockerfile": "./Dockerfile",
   "environmentVariables": {
-    "API_BASE": "https://forestry-penguin-refine-relax.trycloudflare.com"
+    "API_BASE": "https://api.scopeaicv.com"
   }
 }
